@@ -9,8 +9,8 @@ This repository contains the **Todo Application** project along with its **Manua
 
 Comprehensive **Manual Testing** was conducted on the application to ensure all features function correctly and meet the requirements. This includes testing of:
 
-- User authentication (signup, login, logout)
-- Task creation, editing, and deletion
+- User authentication (signup, login)
+- Task creation, deletion
 - Task completion and status updates
 - UI/UX consistency across different devices
 
