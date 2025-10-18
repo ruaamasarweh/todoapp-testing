@@ -8,7 +8,7 @@ All detailed test results, including the executed **Test Cases** and the consoli
 
 * **Documentation File:** `QAcart Todo Application Checklist.xlsx` (located in the project root folder)
 
-* 
+  
 ### Hello and welcome to this Project.
 This is a simple React Web application that was made for my blogs, where i will be using to explain a specific topics in Cypress.
 
