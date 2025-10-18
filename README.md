@@ -1,4 +1,13 @@
+## 🛡️ Quality Assurance & Testing
 
+Comprehensive **Manual Testing** was conducted on the application to ensure all features function correctly and meet the requirements.
+
+### Testing Artifacts:
+
+All detailed test results, including the executed **Test Cases** and the consolidated **Bug Report**, are documented and available in the uploaded Excel file:
+
+* **Documentation File:** [`QAcarto Todo Application Checklist.xlsx`](QAcarto%20Todo%20Application%20Checklist.xlsx)
+* 
 ### Hello and welcome to this Project.
 This is a simple React Web application that was made for my blogs, where i will be using to explain a specific topics in Cypress.
 
